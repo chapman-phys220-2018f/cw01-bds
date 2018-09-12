@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 1
 
-**Author(s):** **CHANGEME**
+Enea Dodi
 
 ## Specification
 
@@ -14,7 +14,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 This assignment taught me you canc hoose the length of your ints.
 
-**CHANGEME**
+
 
 ## Honor Pledge
 
